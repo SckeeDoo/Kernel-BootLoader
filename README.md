@@ -141,12 +141,20 @@ mount -o loop myos.img /media/floppy1
 cp kernel.bin /media/floppy1/
 umount /media/floppy1
 rm -r /media/floppy1
+~~~
+Also one importat thing is to create an empty build foled in our directory.
 
+###5. Finish Him!!!!
+
+Now we go in the cmd (or terminal for linux) and go to our directory and run the build.sh file like this
+~~~
+./build.sh
 ~~~
 
-![imag](http://i.imgur.com/wkTv1cy.png)
-![imag](http://i.imgur.com/3tbFF1z.png)
-![imag](http://i.imgur.com/EfKPiwr.png)
+As in previous laboratory we have to load the kernel in virtual machine. It doesnt do anythin on the screen, we havent did it yet. but this is what you should see.
+
+![imag](https://postimg.org/image/x9986h4n7/)
+
 
 
 It's done! Run your virtual machine and see the `goodest` OS eveeeeeeer!
