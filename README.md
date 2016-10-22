@@ -153,10 +153,9 @@ Now we go in the cmd (or terminal for linux) and go to our directory and run the
 
 As in previous laboratory we have to load the kernel in virtual machine. It doesnt do anythin on the screen, we havent did it yet. but this is what you should see.
 
-![imag](https://postimg.org/image/x9986h4n7/)
+![imag](https://s21.postimg.org/tpnago1xj/Capture.png)
 
 
 
-It's done! Run your virtual machine and see the `goodest` OS eveeeeeeer!
-
+Thats all!
 
